@@ -38,7 +38,8 @@ public class BaseTest extends TestListener implements ITestListener{
 //		  <parameter name="deviceName" value="Google Pixe 2Xl" ></parameter>
 //		  <parameter name="portNumber" value="4723"></parameter>
 
-			
+			// This is my comment //
+		
 		try {
 		System.out.print("hi am in base test class");
 		DesiredCapabilities caps = new DesiredCapabilities();
